@@ -1,6 +1,6 @@
 ### Hi I'am Gabriel Franco👋 creator of digital content and technology content!
 
-🔭 I’m currently working on Front End
+🔭 I’m currently working with Front End
 🌱 I’m currently learning JavaScript
 
 <div align="center">
