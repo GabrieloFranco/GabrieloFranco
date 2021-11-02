@@ -1,4 +1,4 @@
-### Hi I'am Gabriel Franco👋 creator of programming and technology content!
+### Hi I'am Gabriel Franco👋 digital content and technology content!
 
 🔭 I’m currently working on Front End
 🌱 I’m currently learning JavaScript
