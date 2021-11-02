@@ -5,6 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/GabrieloFranco">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrieloFranco&show_icons=true&theme=Gradient&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrieloFranco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieloFranco&layout=compact&langs_count=7&theme=dark"/>
+    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 </div>
