@@ -11,7 +11,7 @@
 🔭 Atualmente, estou trabalhando com Front End
 🌱 Atualmente, estou aprendendo JavaScript
 <br>
-
+</div>
 <div align="center">
   <a href="https://github.com/GabrieloFranco">
 
