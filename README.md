@@ -3,6 +3,13 @@
 🔭 I’m currently working with Front End
 🌱 I’m currently learning JavaScript
 
+<br>
+
+### Olá, sou Gabriel Franco👋, criador de conteúdo digital e conteúdo de tecnologia!
+
+🔭 Atualmente, estou trabalhando com Front End
+🌱 Atualmente, estou aprendendo JavaScript
+
 <div align="center">
   <a href="https://github.com/GabrieloFranco">
 
