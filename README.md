@@ -4,11 +4,12 @@
 🌱 I’m currently learning JavaScript
 
 <br>
-
+(pt-br)
 ### Olá, sou Gabriel Franco👋, criador de conteúdo digital e conteúdo de tecnologia!
 
 🔭 Atualmente, estou trabalhando com Front End
 🌱 Atualmente, estou aprendendo JavaScript
+<br>
 
 <div align="center">
   <a href="https://github.com/GabrieloFranco">
