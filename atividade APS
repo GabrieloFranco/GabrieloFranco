@@ -1,0 +1,63 @@
+//let = variavel, antiga var
+//conosole.log = mostrar na tela 
+//const = constante
+
+//questao1
+let number1 = 2;
+let number2 = 16;
+let valorDosNumeros= number1 *2 + number2/4;
+console.log(valorDosNumeros);
+
+//questao2
+const salario = 900;
+const bonusPeca = 25;
+let numeroPecas =1;
+if (numeroPecas>0) {
+    salarioReceber =salario + numeroPecas * bonusPeca;
+    console.log(salarioReceber);
+}else{
+    console.log(salario);
+};
+
+
+//questao3
+const bandeiraInicial =5; 
+const precoKmrodado =6;
+let kmRodados = 1;
+let precoFinal =bandeiraInicial + precoKmrodado* kmRodados;
+console.log(precoFinal);
+
+//questão 4
+let sal= 1500;
+
+if (sal>= 1501){
+    imposto = sal/10,
+    inss = sal*0.05,
+    valorTotal = sal - (imposto+inss),
+    
+    console.log (valorTotal);
+    
+}else{
+    inss = sal*0.05,
+    valorTotal2 = sal - (inss),
+    console.log (valorTotal2);
+};
+
+//questao 5
+let sal2= 1300;
+
+if (sal2>= 5001) {
+    bonus1= sal2 + sal2/10,
+    console.log (bonus1)
+
+}else{
+    bonus2= (sal2 + sal2*0.04),
+    console.log (bonus2)
+};
+
+
+
+
+
+
+
