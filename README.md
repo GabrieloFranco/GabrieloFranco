@@ -1,16 +1,33 @@
 <div align="center">
-### Hi I'am Gabriel Franco👋 creator of digital content and technology content!
+Hello! My name is Gabriel Franco, I'm a Data Science student at FIAP. I am passionate about technology and I am constantly looking to learn new skills to become an even better professional.
 
-🔭 I’m currently working with Front End
-🌱 I’m currently learning JavaScript
+I am currently studying:
+Python: I work with exercises and college projects, I use the language to work with Data Science and Machine Learning.
+SQL: I am developing knowledge in SQL to work with databases and data analysis.
+
+Projects:
+[Project name 1](link to project): Coming soon...
+
+contact
+Email: ds.gabrielfranco@gmail.com
+LinkedIn: (https://www.linkedin.com/in/gabriel-f-27a2a9230/)
 
 <br>
 (pt-br)
-### Olá, sou Gabriel Franco👋, criador de conteúdo digital e conteúdo de tecnologia!
 
-🔭 Atualmente, estou trabalhando com Front End
-🌱 Atualmente, estou aprendendo JavaScript
-<br>
+Olá! Meu nome é Gabriel Franco, sou estudante de Data Science na FIAP. Sou apaixonado por tecnologia e estou constantemente buscando aprender novas habilidades para me tornar um profissional ainda melhor.
+
+Atualmente estou estudando: 
+Python: Trabalho com exercícios e Projetos da faculdade, utilizo a linguagem para trabalhar com Data Science e Machine Learning.
+SQL: estou desenvolvendo conhecimento em SQL para trabalhar com bancos de dados e análise de dados.
+
+Projetos:
+[Nome do projeto 1](link para o projeto): Em breve ...
+
+Contato
+E-mail: ds.gabrielfranco@gmail.com
+LinkedIn: (https://www.linkedin.com/in/gabriel-f-27a2a9230/)
+  
 </div>
 <div align="center">
   <a href="https://github.com/GabrieloFranco">
