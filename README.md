@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">-->
 Hello! My name is Gabriel Franco, I'm a Data Science student at FIAP. I am passionate about technology and I am constantly looking to learn new skills to become an even better professional.
 
 I am currently studying:
@@ -7,10 +7,6 @@ SQL: I am developing knowledge in SQL to work with databases and data analysis.
 
 Projects:
 [Project name 1](link to project): Coming soon...
-
-contact
-Email: ds.gabrielfranco@gmail.com
-LinkedIn: (https://www.linkedin.com/in/gabriel-f-27a2a9230/)
 
 <br>
 (pt-br)
@@ -24,8 +20,8 @@ SQL: estou desenvolvendo conhecimento em SQL para trabalhar com bancos de dados 
 Projetos:
 [Nome do projeto 1](link para o projeto): Em breve ...
 
-Contato
-E-mail: ds.gabrielfranco@gmail.com
+contact
+Email: ds.gabrielfranco@gmail.com
 LinkedIn: (https://www.linkedin.com/in/gabriel-f-27a2a9230/)
   
 </div>
