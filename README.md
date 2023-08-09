@@ -35,7 +35,7 @@ Feel free to reach out to me through email at ds.gabrielfranco@gmail.com. Connec
 
 Looking forward to connecting and collaborating with fellow Data Science enthusiasts and tech professionals! 🚀
 
-## PT- BR
+<!-- ## PT- BR
 Agora procurando uma oportunidade de estágio na área.
  
 Sou um estudante de Data Science da FIAP, dedicado a alavancar a tecnologia para resolver desafios do mundo real. Minha jornada neste campo foi emocionante e educacional, e estou continuamente ansioso para aprender e crescer como profissional.
@@ -56,7 +56,7 @@ Sinta-se à vontade para entrar em contato comigo por e-mail em ds.gabrielfranco
 
 Ansioso para conectar e colaborar com colegas entusiastas de Data Science e profissionais de tecnologia! 🚀
 
-<br>
+<br>-->
  
 </div>
 <div align="center">
@@ -64,7 +64,7 @@ Ansioso para conectar e colaborar com colegas entusiastas de Data Science e prof
   <a href="https://github.com/GabrieloFranco">
 
   <!--<img height="225px" src="https://github-readme-stats.vercel.app/api?username=GabrieloFranco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
-  <img height="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieloFranco&layout=compact&langs_count=7&theme=dark"/>
+  <!--<img height="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieloFranco&layout=compact&langs_count=7&theme=dark"/>-->
  
 </div>
   
