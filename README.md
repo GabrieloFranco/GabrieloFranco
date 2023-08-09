@@ -22,7 +22,7 @@ Projetos:
 
 contact
 Email: ds.gabrielfranco@gmail.com
-LinkedIn: (https://www.linkedin.com/in/gabriel-f-27a2a9230/)
+LinkedIn: ([https://www.linkedin.com/in/gabriel-f-27a2a9230/](https://www.linkedin.com/in/gabriel-franco-27a2a9230))
   
 </div>
 <div align="center">
