@@ -71,7 +71,6 @@ Ansioso para conectar e colaborar com colegas entusiastas de Data Science e prof
 <div style="display: inline_block" align="center"><br>
     
   <img align="center" alt="Gabriel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-LinkedIn" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
   <img align="center" alt="Gabriel-HTML"height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
