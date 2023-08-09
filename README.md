@@ -1,7 +1,23 @@
 <!--<div align="center">-->
-# Hello, I'm Gabriel Franco! 👋
+<h1 align="left"> 
+ Hey yo, I'm Gabriel Franco, <strong>Data Science Student!!</strong>
+</h1>
 
-I'm a passionate Data Science student at FIAP, dedicated to leveraging technology to solve real-world challenges. My journey in this field has been exciting and educational, and I'm continuously eager to learn and grow as a professional.
+<p align="left">
+  <p>Now looking for a developer job.</p>
+  <a href="https://wa.me/+5511958814398?text=Ol%C3%A1%20Gabriel,%20gostaria%20de%20conversar%20com%20você%20" alt="Whatsapp">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  
+  <!--<a href="ds.gabrielfranco@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>-->
+
+  <a href="https://www.linkedin.com/in/gabriel-franco-27a2a9230/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</p>  
+Now looking for an internship opportunity in the area.
+
+I'm a Data Science student at FIAP, dedicated to leveraging technology to solve real-world challenges. My journey in this field has been both exciting and educational, and I am continually eager to learn and grow as a professional.
 
 ## 🌱 Currently Learning
 
@@ -18,9 +34,11 @@ I'm a passionate Data Science student at FIAP, dedicated to leveraging technolog
 Feel free to reach out to me through email at ds.gabrielfranco@gmail.com. Connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-franco-27a2a9230) to stay updated on my journey and professional insights.
 
 Looking forward to connecting and collaborating with fellow Data Science enthusiasts and tech professionals! 🚀
-# Olá, eu sou o Gabriel Franco! 👋
 
-Sou um estudante apaixonado por Data Science na FIAP, dedicado a utilizar a tecnologia para resolver desafios do mundo real. Minha jornada nesse campo tem sido empolgante e educacional, e estou continuamente ansioso para aprender e crescer como profissional.
+## PT- BR
+Agora procurando uma oportunidade de estágio na área.
+ 
+Sou um estudante de Data Science da FIAP, dedicado a alavancar a tecnologia para resolver desafios do mundo real. Minha jornada neste campo foi emocionante e educacional, e estou continuamente ansioso para aprender e crescer como profissional.
 
 ## 🌱 Atualmente Estudando
 
