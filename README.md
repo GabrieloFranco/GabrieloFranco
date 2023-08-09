@@ -1,6 +1,6 @@
 <!--<div align="center">-->
 <h1 align="left"> 
- Hey yo, I'm Gabriel Franco, <strong>Data Science Student!!</strong>
+ Hey yo, I'm Gabriel Franco, <strong>Data Scientist student!!</strong>
 </h1>
 
 <p align="left">
