@@ -79,7 +79,7 @@ Ansioso para conectar e colaborar com colegas entusiastas de Data Science e prof
   <img align="center" alt="Gabriel-HTML"height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/dsgabofranco"> <img  align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  height="40" width="50"    
+  <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/dsgabofranco"> <img  align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  height="40" width="210"    
   alt="https://www.buymeacoffee.com/dsgabofranco" /></a>
   
  
