@@ -25,10 +25,10 @@ class GabrielFranco:
     
     def titles(self):
         titles_map = {}
-        titles_map["🎓"] = "Data Science and Full Stack Development Student"
-        titles_map["💻"] = "Full Stack Developer"
+        titles_map["🎓"] = "Data Enginner Junior"
+        titles_map["💻"] = "Data Enginner"
         titles_map["📊"] = "Data Scientist"
-        titles_map["🧠"] = "MBA in Technology or Project Management"
+        titles_map["🧠"] = "Certifications in Progress"
         return titles_map
 
 ```
