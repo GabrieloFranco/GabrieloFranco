@@ -1,54 +1,85 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielofranco&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielofranco" /> </p>
+# Gabriel Franco
 
-<p align="left">
-  <!--<a target="_blank" href="https://ayo.so/gabrielofranco"><img width="270px" alt="Ayo.so Card" title="Ayo.so Card" align="right" src=""/></a>-->
-  <samp>「</samp>
-</p>
-<h1 align="center"><samp> Gabriel Franco <br/><sup>Data Scientist and Full Stack Developer</sup></samp></h1>
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/gabrielofranco" alt="LinkedIn" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  <a target="_blank" href="https://wa.me/+5511958814398?text=Ol%C3%A1%20Gabriel,%20gostaria%20de%20conversar%20com%20você%20" alt="Whatsapp">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <p align="right"><samp>」</samp></p>
-</p>
+**Data Engineer | SQL | PySpark | Databricks | Delta Lake | Python | Control-M**
 
-<br/>
-<p>
-   Hey yo, I'm Gabriel Franco, <strong>Data Scientist student!!</strong> check my certs and projects in the 📌 pinned repositories below!<br/>
-</p>
+Olá! Sou Gabriel Franco, Engenheiro de Dados com experiência em ambientes bancários, atuando com pipelines de dados, parametrizações financeiras, automações em Python e processamento distribuído com PySpark e Databricks.
 
-```phyton
-class GabrielFranco:
-    info = "Data Scientist and Full Stack Developer"
-    lang = ["Python", "JavaScript", "SQL"]
-    tech = ["Pandas", "NumPy", "Linux", "Git", "Knime", "Oracle OCI", "Excel"]
-    
-    def titles(self):
-        titles_map = {}
-        titles_map["🎓"] = "Data Enginner Junior"
-        titles_map["💻"] = "Data Enginner"
-        titles_map["📊"] = "Data Scientist"
-        titles_map["🧠"] = "Certifications in Progress"
-        return titles_map
+Atualmente trabalho como **Data Engineer na BRQ Digital Solutions**, alocado na **F1rst/Santander**, na área de **MIS Financeiro**, atuando em processos críticos relacionados à rentabilidade de operações financeiras, produtos de renda fixa e integração entre ambientes on-premise e cloud.
 
-```
+---
 
-<details align="center">
-<summary> &#9655;</summary>
+## Sobre mim
 
-<h2></h2><br>
-<p align="center">
-  <samp>
-    [<a target="_blank" href="mailto:ds.gabrielfranco@gmail.com">e-mail</a>]
-    <!--[<a target="_blank" href="">crossing field</a>]-->
-  </samp>
-</p>
+Tenho experiência prática com:
 
-<
-<!-- >>```sh
-curl -sL https://github.com/GabrieloFranco.gpg | gpg --import
-``` -->
+- Desenvolvimento e manutenção de pipelines em **PySpark**
+- Criação de regras de negócio em **SQL**
+- Processamento de dados em **Databricks**
+- Uso de **Delta Lake** em ambientes cloud
+- Orquestração e monitoramento de jobs via **Control-M**
+- Integração com bases **Oracle/Exadata**
+- Automação de processos com **Python**
+- Documentação técnica no **Confluence**
+- Contato direto com áreas de negócio, POs e backoffice
 
+Antes da minha atuação como Engenheiro de Dados, trabalhei como estagiário de dados no Santander Seguros, utilizando **Power BI, Python, PySpark, SQL e Databricks** para criação de dashboards, tratamento de dados e automações.
 
+---
 
-</details>
+## Stack principal
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00A6D6?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Control-M](https://img.shields.io/badge/Control--M-1F4E79?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## Áreas de interesse
+
+- Engenharia de Dados
+- Arquitetura Lakehouse
+- Pipelines batch e streaming
+- Databricks e Delta Lake
+- Automação com Python
+- IA aplicada à produtividade em dados
+- Observabilidade e qualidade de dados
+- Produtos financeiros e dados bancários
+
+---
+
+## Projetos em destaque
+
+Atualmente estou reorganizando meu portfólio com projetos voltados para engenharia de dados, simulando cenários reais de mercado, como:
+
+- Pipeline de ingestão e tratamento de arquivos
+- Arquitetura bronze, silver e gold
+- Validação de regras de negócio com SQL e Python
+- Processamento de dados com PySpark
+- Orquestração de pipelines
+- Documentação técnica automatizada com apoio de IA
+
+---
+
+## Formação e certificações
+
+- Tecnólogo em Data Science — FIAP
+- Databricks Fundamentals
+- Get Started with Databricks for Data Engineering
+- PCP Federado - Low Platform — F1rst
+
+---
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/gabrielofranco)  
+[Portfólio](https://gabrielofranco.github.io/portfolio/)  
+[E-mail](mailto:gfranco@prservicos.com.br)
