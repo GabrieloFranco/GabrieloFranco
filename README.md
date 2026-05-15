@@ -82,4 +82,4 @@ Atualmente estou reorganizando meu portfólio com projetos voltados para engenha
 
 [LinkedIn](https://www.linkedin.com/in/gabrielofranco)  
 [Portfólio](https://gabrielofranco.github.io/portfolio/)  
-[E-mail](mailto:gfranco@prservicos.com.br)
+[E-mail](mailto:ds.gabrielfranco@gmail.com)
