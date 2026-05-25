@@ -2,31 +2,15 @@
 
 **Data Engineer | SQL | PySpark | Databricks | Delta Lake | Python | Control-M**
 
-Olá! Sou Gabriel Franco, Engenheiro de Dados com experiência em ambientes bancários, atuando com pipelines de dados, parametrizações financeiras, automações em Python e processamento distribuído com PySpark e Databricks.
+I am a Data Engineer based in Sao Paulo, Brazil, working with data pipelines, financial data processing, business rules, automation, and cloud data platforms.
 
-Atualmente trabalho como **Data Engineer na BRQ Digital Solutions**, alocado na **F1rst/Santander**, na área de **MIS Financeiro**, atuando em processos críticos relacionados à rentabilidade de operações financeiras, produtos de renda fixa e integração entre ambientes on-premise e cloud.
+Currently, I work at **BRQ Digital Solutions**, allocated to **F1rst/Santander**, in the **Financial MIS** area. My day-to-day work involves PySpark pipelines on Databricks, SQL business rules for fixed-income products, batch job orchestration with Control-M, and integration between Oracle Exadata and Delta Lake environments.
 
----
-
-## Sobre mim
-
-Tenho experiência prática com:
-
-- Desenvolvimento e manutenção de pipelines em **PySpark**
-- Criação de regras de negócio em **SQL**
-- Processamento de dados em **Databricks**
-- Uso de **Delta Lake** em ambientes cloud
-- Orquestração e monitoramento de jobs via **Control-M**
-- Integração com bases **Oracle/Exadata**
-- Automação de processos com **Python**
-- Documentação técnica no **Confluence**
-- Contato direto com áreas de negócio, POs e backoffice
-
-Antes da minha atuação como Engenheiro de Dados, trabalhei como estagiário de dados no Santander Seguros, utilizando **Power BI, Python, PySpark, SQL e Databricks** para criação de dashboards, tratamento de dados e automações.
+My background combines hands-on data engineering in banking environments with a strong focus on reliable pipelines, documentation, maintainability, and business-facing data delivery.
 
 ---
 
-## Stack principal
+## Core Stack
 
 <div align="left">
 
@@ -43,43 +27,63 @@ Antes da minha atuação como Engenheiro de Dados, trabalhei como estagiário de
 
 ---
 
-## Áreas de interesse
+## What I Work With
 
-- Engenharia de Dados
-- Arquitetura Lakehouse
-- Pipelines batch e streaming
-- Databricks e Delta Lake
-- Automação com Python
-- IA aplicada à produtividade em dados
-- Observabilidade e qualidade de dados
-- Produtos financeiros e dados bancários
+- Data pipelines with **PySpark**, **SQL**, **Databricks**, and **Delta Lake**
+- Financial data processing, parameterization, validation, and reconciliation
+- Batch orchestration, monitoring, log analysis, and troubleshooting with **Control-M**
+- Data integration between traditional database environments and cloud lakehouse platforms
+- Python automation for internal processes and manual workflow reduction
+- Technical documentation, maintainability, and collaboration with business teams
 
 ---
 
-## Projetos em destaque
+## Current Focus
 
-Atualmente estou reorganizando meu portfólio com projetos voltados para engenharia de dados, simulando cenários reais de mercado, como:
+I am currently deepening my skills in:
 
-- Pipeline de ingestão e tratamento de arquivos
-- Arquitetura bronze, silver e gold
-- Validação de regras de negócio com SQL e Python
-- Processamento de dados com PySpark
-- Orquestração de pipelines
-- Documentação técnica automatizada com apoio de IA
-
----
-
-## Formação e certificações
-
-- Tecnólogo em Data Science — FIAP
-- Databricks Fundamentals
-- Get Started with Databricks for Data Engineering
-- PCP Federado - Low Platform — F1rst
+- Lakehouse architecture with Databricks and Delta Lake
+- Advanced Spark performance and data pipeline reliability
+- Data quality, observability, and testing
+- Orchestration with Airflow and modern data workflow tools
+- CI/CD practices for data engineering projects
+- Cloud data engineering, especially in the Azure and Databricks ecosystem
 
 ---
 
-## Contato
+## Portfolio Roadmap
+
+I am rebuilding my public portfolio around practical data engineering projects:
+
+| Project | Status | Focus |
+| --- | --- | --- |
+| Certification Analytics Platform | In progress | Product analytics, PostgreSQL/Supabase, analytical modeling, learning metrics |
+| Lakehouse Financial Pipeline | Planned | PySpark, Delta Lake, medallion architecture, data validation |
+| Batch Orchestration Pipeline | Planned | Airflow, Docker, retries, logs, CI/CD |
+
+---
+
+## Experience Snapshot
+
+**Data Engineer - BRQ Digital Solutions / F1rst-Santander**  
+Financial MIS, fixed-income products, PySpark pipelines, Databricks, Delta Lake, SQL business rules, Control-M, Oracle Exadata, Python automation, and technical documentation.
+
+**Data Analyst Intern - Santander Brasil**  
+Insurance data platform, Databricks, SQL, PySpark, Python automation, Power BI dashboards, data cleansing, normalization, and business reporting.
+
+---
+
+## Education and Certifications
+
+- Technologist degree in Data Science - FIAP
+- Databricks Academy Accreditation - Databricks Fundamentals
+- Databricks Academy Accreditation - Get Started with Databricks for Data Engineering
+- PCP Federado - Low Platform - F1rst
+
+---
+
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/gabrielofranco)  
-[Portfólio](https://gabrielofranco.github.io/portfolio/)  
-[E-mail](mailto:ds.gabrielfranco@gmail.com)
+[Portfolio](https://gabrielofranco.github.io/portfolio/)  
+[Email](mailto:ds.gabrielfranco@gmail.com)
