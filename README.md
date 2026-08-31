@@ -45,7 +45,7 @@ I am currently deepening my skills in:
 - Lakehouse architecture with Databricks and Delta Lake
 - Advanced Spark performance and data pipeline reliability
 - Data quality, observability, and testing
-- Orchestration with Airflow and modern data workflow tools
+- Apache Airflow fundamentals and modern data workflow patterns
 - CI/CD practices for data engineering projects
 - Cloud data engineering, especially in the Azure and Databricks ecosystem
 
@@ -57,7 +57,7 @@ I am rebuilding my public portfolio around practical data engineering projects:
 
 | Project | Status | Focus |
 | --- | --- | --- |
-| Certification Analytics Platform | In progress | Product analytics, PostgreSQL/Supabase, analytical modeling, learning metrics |
+| [Certification Analytics Platform](https://github.com/GabrieloFranco/app_simulados) | Private prototype with public overview | Product analytics, PostgreSQL/Supabase, analytical modeling, learning metrics |
 | Lakehouse Financial Pipeline | Planned | PySpark, Delta Lake, medallion architecture, data validation |
 | Batch Orchestration Pipeline | Planned | Airflow, Docker, retries, logs, CI/CD |
 
